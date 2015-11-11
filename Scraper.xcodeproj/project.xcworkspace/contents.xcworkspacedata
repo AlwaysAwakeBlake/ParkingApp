@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Scraper.xcodeproj">
+      location = "self:/Users/blakemabe/Documents/Projects/Scraper/Scraper.xcodeproj">
    </FileRef>
 </Workspace>
